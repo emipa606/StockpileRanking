@@ -1,14 +1,14 @@
 # StockpileRanking
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Uuuggggs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1558464886
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 " "Makes stockpiles better" " - Mehni
 
@@ -45,7 +45,7 @@ Yea it's incompatible with Extended Storage, but I don't use that. Anyone can lo
 Ludeon Forum (modlist) : https://ludeon.com/forums/index.php?topic=40701
 GitHub source : https://github.com/alextd/RimWorld-StockpileRanking
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
